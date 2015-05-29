@@ -8,8 +8,8 @@
 * [pom.xml](https://github.com/madvirus/springlec/blob/master/ex1/pom.xml)
 
 실습2:
+* [pom.xml 추가 의존](https://github.com/madvirus/springlec/blob/master/ex2/pom.xml.part)
 * [MemberRegisterController.java](https://github.com/madvirus/springlec/blob/master/ex2/MemberRegisterController.java)
 * [MemberRegisterControllerTest.java](https://github.com/madvirus/springlec/blob/master/ex2/MemberRegisterControllerTest.java)
 * [RegisterServiceIntTest.java](https://github.com/madvirus/springlec/blob/master/ex2/RegisterServiceIntTest.java)
 * [mvc.xml](https://github.com/madvirus/springlec/blob/master/ex2/mvc.xml)
-

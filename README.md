@@ -13,3 +13,4 @@
 * [MemberRegisterControllerTest.java](https://github.com/madvirus/springlec/blob/master/ex2/MemberRegisterControllerTest.java)
 * [RegisterServiceIntTest.java](https://github.com/madvirus/springlec/blob/master/ex2/RegisterServiceIntTest.java)
 * [mvc.xml](https://github.com/madvirus/springlec/blob/master/ex2/mvc.xml)
+* [MvcConfig.java](https://github.com/madvirus/springlec/blob/master/ex2/MvcConfig.java)

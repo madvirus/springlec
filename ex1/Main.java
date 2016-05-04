@@ -11,6 +11,9 @@ import member.RegisterRequest;
 import member.RegisterService;
 
 import org.springframework.context.support.GenericXmlApplicationContext;
+//import org.springframework.context.annotation.AnnotationConfigApplicationContext;
+import org.springframework.context.support.AbstractApplicationContext;
+
 
 public class Main {
 
